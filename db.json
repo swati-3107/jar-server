@@ -1,0 +1,104 @@
+{
+  "customers": [
+    {
+      "fname": "sak",
+      "address": "abad",
+      "mobile": "09307493176",
+      "id": 4
+    },
+    {
+      "fname": "swatI",
+      "address": "nutan colony",
+      "mobile": "09307493176",
+      "id": 5
+    },
+    {
+      "fname": "swaaa",
+      "address": "aubad",
+      "mobile": "09307493176",
+      "id": 6
+    },
+    {
+      "fname": "pooja",
+      "address": "snagr",
+      "mobile": "09307493176 ",
+      "id": 7
+    },
+    {
+      "fname": "swatdd",
+      "address": "aubad",
+      "mobile": "09307493176 ",
+      "id": 8
+    }
+  ],
+  "orders": [
+    {
+      "jars": "3",
+      "date": "2023-09-15",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "jars": "2",
+      "date": "2023-09-19",
+      "userId": 5,
+      "id": 2
+    },
+    {
+      "jars": "5",
+      "date": "2023-09-19",
+      "userId": 5,
+      "id": 3
+    },
+    {
+      "jars": "6",
+      "date": "2023-09-21",
+      "userId": 6,
+      "id": 4
+    },
+    {
+      "jars": "4",
+      "date": "2023-09-19",
+      "userId": 7,
+      "id": 5
+    },
+    {
+      "jars": "2",
+      "date": "2023-09-19",
+      "userId": 4,
+      "id": 6
+    },
+    {
+      "jars": "4",
+      "date": "2023-09-14",
+      "userId": 4,
+      "id": 7
+    },
+    {
+      "date": "2023-06-15",
+      "jars": "4",
+      "userId": 8,
+      "id": 8
+    },
+    {
+      "date": "2023-07-20",
+      "jars": "14",
+      "userId": 4,
+      "id": 9
+    },
+    {
+      "jars": "35",
+      "date": "2023-02-14",
+      "userId": 5,
+      "id": 10
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": 123
+    }
+  ]
+}
